@@ -1,0 +1,3 @@
+﻿  Vector_exercice.cpp
+C:\Users\Moi\source\repos\Vector_exercice\Vector_exercice.cpp(42,22): warning C4018:  '<': signed/unsigned mismatch
+  Vector_exercice.vcxproj -> C:\Users\Moi\source\repos\Vector_exercice\Debug\Vector_exercice.exe
