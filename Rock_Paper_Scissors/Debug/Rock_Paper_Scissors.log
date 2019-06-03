@@ -1,0 +1,4 @@
+﻿  Rock_Paper_Scissors.cpp
+C:\Users\Moi\source\repos\Rock_Paper_Scissors\Rock_Paper_Scissors.cpp(28,13): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Moi\source\repos\Rock_Paper_Scissors\Rock_Paper_Scissors.cpp(34,21): warning C4018:  '<': signed/unsigned mismatch
+  Rock_Paper_Scissors.vcxproj -> C:\Users\Moi\source\repos\Rock_Paper_Scissors\Debug\Rock_Paper_Scissors.exe
